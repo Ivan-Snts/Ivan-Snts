@@ -3,7 +3,7 @@
  ## 🚀  Bem vindo à bordo da minha jornada.
 
 # Sobre
-Este projeto foi desenvolvido no Curso contribuindo em projeto open Source, da DIO Ministrado pela professora Elidiana Andrade. 
+Aqui estou postando os códigos e conteúdos aprendidos nos cursos que tenho feito. 
 
 ## link do projeto
  [Link do Repositório ]( https://github.com/Ivan-Snts/dio-lab-open-source.git) 

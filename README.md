@@ -3,7 +3,7 @@
  ## 🚀  Bem vindo à bordo da minha jornada.
 
 # Sobre
-Aqui estou postando os códigos e conteúdos aprendidos nos cursos que tenho feito. 
+Aqui você vai encontrar os códigos, e os conteúdos que venho adquirindo através dos cursos que tenho feito. 
 
 ## link do projeto
  [Link do Repositório ]( https://github.com/Ivan-Snts/dio-lab-open-source.git) 
@@ -14,7 +14,7 @@ Graduado em Produção Multimídia pelo Centro Universitário de Belo Horizonte,
 
 * No momento não estou trabalhando. Estou Open to work.
 
-* Atualmente Estou estudando sobre Java, angular, git e github.
+* Atualmente Estou estudando através do Bootcamp Fullstack Santander em Parceria com a DIO.
 
 
 ### Contato 
@@ -24,10 +24,16 @@ Graduado em Produção Multimídia pelo Centro Universitário de Belo Horizonte,
 ### 🛠 Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-	
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+ 
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 

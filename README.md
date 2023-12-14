@@ -8,7 +8,7 @@ Aqui você vai encontrar os códigos, e os conteúdos que venho adquirindo atrav
 
 
 # Minha trajetória
-Graduado em Produção Multimídia pelo Centro Universitário de Belo Horizonte, porém não cheguei a atuar na área, trabalhei boa parte da minha vida na área comercial e ultimamente com atendimento, estou no momento de transição de carrreira.
+Graduado em Produção Multimídia pelo Centro Universitário de Belo Horizonte, porém não cheguei a atuar na área, trabalhei boa parte da minha vida na área comercial e ultimamente com atendimento, estou no momento de transição de carreira.
 
 * No momento não estou trabalhando. Estou Open to work.
 
